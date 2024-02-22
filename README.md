@@ -22,7 +22,7 @@ This repository covers the principled Algorithms in Bioinformatics and its imple
 [Google Colab](https://colab.research.google.com) provides all the necessary dependencies for running the code in this repository. You do not need to install any additional packages.
 
 
-## Day 1: DNA Replication Part 1
+## Day 1: Exploring Heddin Massages in DNA 
 
 | Notebook  | Open in Colab|  Slides 
 | :---:         |     :---:      |  :---:
@@ -32,7 +32,7 @@ This repository covers the principled Algorithms in Bioinformatics and its imple
 |[Application]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sMmrCa1F6rQKveBAY0Zd8QsNeT0KgAQP?usp=sharing)|[Soon]()
 
 
-## Day 2: DNA Replication Part 2
+## Day 2: DNA Replication 
 
 | Notebook  | Open in Colab|  Slides 
 | :---:         |     :---:      |  :---:
