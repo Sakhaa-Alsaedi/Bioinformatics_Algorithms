@@ -27,9 +27,9 @@ This repository covers the principled Algorithms in Bioinformatics and its imple
 | Notebook  | Open in Colab|  Slides 
 | :---:         |     :---:      |  :---:
 | [Introduction to Python]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sMmrCa1F6rQKveBAY0Zd8QsNeT0KgAQP?usp=sharing)| [Central of dogma]()
-| [Introduction to Bioinformatics](https://colab.research.google.com/drive/1TqD6BdU6_RiXdcRSvzT3nu0abH98VLXI?usp=sharing) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TqD6BdU6_RiXdcRSvzT3nu0abH98VLXI?usp=sharing)| [Genome-DNA level]()
-| [DNA Replication Origin]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ii1LUuQ2M-utm7oMGjC79QKhh2d7ummN?usp=sharing)|[Transcriptome-RNA level]()
-|[Application]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XZ58scoQagn9pypxyasSZSdAUsa9wP8O?usp=sharing)|[Protome-Amino asid level]()
+| [Introduction to Bioinformatics](https://colab.research.google.com/drive/1TqD6BdU6_RiXdcRSvzT3nu0abH98VLXI?usp=sharing) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TqD6BdU6_RiXdcRSvzT3nu0abH98VLXI?usp=sharing)| [Soon]()
+| [DNA Replication Origin]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ii1LUuQ2M-utm7oMGjC79QKhh2d7ummN?usp=sharing)|[Soonl]()
+|[Application]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XZ58scoQagn9pypxyasSZSdAUsa9wP8O?usp=sharing)|[Soon]()
 
 
 ## Day 2: DNA Replication Part 2
@@ -37,31 +37,39 @@ This repository covers the principled Algorithms in Bioinformatics and its imple
 | Notebook  | Open in Colab|  Slides 
 | :---:         |     :---:      |  :---:
 | [Introduction to Python]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sMmrCa1F6rQKveBAY0Zd8QsNeT0KgAQP?usp=sharing)| [Central of dogma]()
-| [Introduction to Bioinformatics](https://colab.research.google.com/drive/1TqD6BdU6_RiXdcRSvzT3nu0abH98VLXI?usp=sharing) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TqD6BdU6_RiXdcRSvzT3nu0abH98VLXI?usp=sharing)| [Genome-DNA level]()
-| [DNA Replication Origin]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ii1LUuQ2M-utm7oMGjC79QKhh2d7ummN?usp=sharing)|[Transcriptome-RNA level]()
-|[Application]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XZ58scoQagn9pypxyasSZSdAUsa9wP8O?usp=sharing)|[Protome-Amino asid level]()
+| [Introduction to Bioinformatics](https://colab.research.google.com/drive/1TqD6BdU6_RiXdcRSvzT3nu0abH98VLXI?usp=sharing) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TqD6BdU6_RiXdcRSvzT3nu0abH98VLXI?usp=sharing)| [Soon]()
+| [DNA Replication Origin]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ii1LUuQ2M-utm7oMGjC79QKhh2d7ummN?usp=sharing)|[Soonl]()
+|[Application]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XZ58scoQagn9pypxyasSZSdAUsa9wP8O?usp=sharing)|[Soon]()
 
 
 ## Day 3: Genome Assembly 
 | Notebook  | Open in Colab|  Slides 
 | :---:         |     :---:      |  :---:
 | [Introduction to Python]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sMmrCa1F6rQKveBAY0Zd8QsNeT0KgAQP?usp=sharing)| [Central of dogma]()
-| [Introduction to Bioinformatics](https://colab.research.google.com/drive/1TqD6BdU6_RiXdcRSvzT3nu0abH98VLXI?usp=sharing) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TqD6BdU6_RiXdcRSvzT3nu0abH98VLXI?usp=sharing)| [Genome-DNA level]()
-| [DNA Replication Origin]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ii1LUuQ2M-utm7oMGjC79QKhh2d7ummN?usp=sharing)|[Transcriptome-RNA level]()
-|[Application]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XZ58scoQagn9pypxyasSZSdAUsa9wP8O?usp=sharing)|[Protome-Amino asid level]()
+| [Introduction to Bioinformatics](https://colab.research.google.com/drive/1TqD6BdU6_RiXdcRSvzT3nu0abH98VLXI?usp=sharing) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TqD6BdU6_RiXdcRSvzT3nu0abH98VLXI?usp=sharing)| [Soon]()
+| [DNA Replication Origin]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ii1LUuQ2M-utm7oMGjC79QKhh2d7ummN?usp=sharing)|[Soonl]()
+|[Application]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XZ58scoQagn9pypxyasSZSdAUsa9wP8O?usp=sharing)|[Soon]()
 
 ## Day 4: Sequnce Alignment 
 
 | Notebook  | Open in Colab|  Slides 
 | :---:         |     :---:      |  :---:
 | [Introduction to Python]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sMmrCa1F6rQKveBAY0Zd8QsNeT0KgAQP?usp=sharing)| [Central of dogma]()
-| [Introduction to Bioinformatics](https://colab.research.google.com/drive/1TqD6BdU6_RiXdcRSvzT3nu0abH98VLXI?usp=sharing) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TqD6BdU6_RiXdcRSvzT3nu0abH98VLXI?usp=sharing)| [Genome-DNA level]()
-| [DNA Replication Origin]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ii1LUuQ2M-utm7oMGjC79QKhh2d7ummN?usp=sharing)|[Transcriptome-RNA level]()
-|[Application]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XZ58scoQagn9pypxyasSZSdAUsa9wP8O?usp=sharing)|[Protome-Amino asid level]()
+| [Introduction to Bioinformatics](https://colab.research.google.com/drive/1TqD6BdU6_RiXdcRSvzT3nu0abH98VLXI?usp=sharing) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TqD6BdU6_RiXdcRSvzT3nu0abH98VLXI?usp=sharing)| [Soon]()
+| [DNA Replication Origin]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ii1LUuQ2M-utm7oMGjC79QKhh2d7ummN?usp=sharing)|[Soonl]()
+|[Application]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XZ58scoQagn9pypxyasSZSdAUsa9wP8O?usp=sharing)|[Soon]()
 
 
-## Useful Tutorials
+## Useful Tutorials: [Introduction_to_bioinformatics](https://github.com/Sakhaa-Alsaedi/Introduction_to_bioinformatics)
+# Scripts :space_invader:
 
+| Notebook  | Open in Colab|  Records 
+| :---:         |     :---:      |  :---:
+| [Tutorial 1](https://colab.research.google.com/drive/1sMmrCa1F6rQKveBAY0Zd8QsNeT0KgAQP?usp=sharing) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sMmrCa1F6rQKveBAY0Zd8QsNeT0KgAQP?usp=sharing)| [Central of dogma](https://kaust.zoom.us/rec/play/ST4s4WqmKe1gC1X8V1Ot9-3gx3fXt7ob-7obaBi3e9P3uenOTBBqTfCvbgDR_O4mSZI49j0fV8wB8iwc.mTe9jxdDqmj1aGMD?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fkaust.zoom.us%2Frec%2Fshare%2F9IOIWWwDXB_qM17FXFr3Ki67KqyLw8qpkkaWa33CYmtPsV5bAiL4s7Up58-urPC7.Lh6LY-JwChtUJWem)
+| [Tutorial 2](https://colab.research.google.com/drive/1TqD6BdU6_RiXdcRSvzT3nu0abH98VLXI?usp=sharing) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TqD6BdU6_RiXdcRSvzT3nu0abH98VLXI?usp=sharing)| [Genome-DNA level](https://kaust.zoom.us/rec/play/tygKzMqXWXOFFSSTBdm4YwjbETppU61WtbpY3nYZhXndEcwEq1hBnwnvkmsXf0Y8D_Y1ptbxI5rF8OXQ.hmZUOhMxF9Y0e9c-?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fkaust.zoom.us%2Frec%2Fshare%2FJWNcrdaPeuQ6YR-6chj5f3AWKOXlrPz1WbYvreeCTbLnNAQIC5plDpI6TDbLOgEj.oA22h9OE0S8AFzUf)
+| [Tutorial 3](https://colab.research.google.com/drive/1LDlhbge4ulcQBUl837bbMMNPhKx2ZGZj?usp=sharing) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LDlhbge4ulcQBUl837bbMMNPhKx2ZGZj?usp=sharing)|[Transcriptome-RNA level](https://kaust.zoom.us/rec/play/3tC291G2sp1USspwzQbr6IjLHCP7jWCSo6e5YJF7Mww471ei5DVGEF79P_UmQuYjn7Ou7wz-TBgoia43.0KlZCPhWTNWtXzWy?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fkaust.zoom.us%2Frec%2Fshare%2F5hoQKeaQvUIancQKgfM91KrXBEQcBzIA0MrVyUlI8DJ7zcugarCXHCpCN6jrKadP.0RxFXWz_2-QUq5kh&autoplay=true&startTime=1697279431000)
+| [Tutorial 4](https://colab.research.google.com/drive/1XZ58scoQagn9pypxyasSZSdAUsa9wP8O?usp=sharing) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XZ58scoQagn9pypxyasSZSdAUsa9wP8O?usp=sharing)|[Protome-Amino asid level](https://kaust.zoom.us/rec/play/7juurDBkD1Ao0Wm6UJ_N0U7c85jlqm6UH1-931AbtiIfBSLTmDRFxSbn0_ph4RJBypHHw0rTU6bms-RG.HMHweqXzeXItVb9P?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fkaust.zoom.us%2Frec%2Fshare%2FSpNX8c-wHaJekgwJCv6UtS87oKvVm8XOpTCo9385quOb3PZFM2bdShkTTY-C6OBw.qpXCHbCQsosytBH1)
+| [Tutorial 5](https://colab.research.google.com/drive/1YYzZmlliCDgugzFW6_mJ8SMireIiT4Wm?usp=sharing) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YYzZmlliCDgugzFW6_mJ8SMireIiT4Wm?usp=sharing)|[Python for Biostatistics](https://kaust.zoom.us/rec/play/7juurDBkD1Ao0Wm6UJ_N0U7c85jlqm6UH1-931AbtiIfBSLTmDRFxSbn0_ph4RJBypHHw0rTU6bms-RG.HMHweqXzeXItVb9P?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fkaust.zoom.us%2Frec%2Fshare%2FSpNX8c-wHaJekgwJCv6UtS87oKvVm8XOpTCo9385quOb3PZFM2bdShkTTY-C6OBw.qpXCHbCQsosytBH1)
 
 
 ## :books: Recommend Books 
