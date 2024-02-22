@@ -26,9 +26,9 @@ This repository covers the principled Algorithms in Bioinformatics and its imple
 
 | Notebook  | Open in Colab|  Slides 
 | :---:         |     :---:      |  :---:
-| [Introduction to Python]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sMmrCa1F6rQKveBAY0Zd8QsNeT0KgAQP?usp=sharing)| [Central of dogma]()
+| [Introduction to Python]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sMmrCa1F6rQKveBAY0Zd8QsNeT0KgAQP?usp=sharing)| [Soon]()
 | [Introduction to Bioinformatics](https://colab.research.google.com/drive/1TqD6BdU6_RiXdcRSvzT3nu0abH98VLXI?usp=sharing) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TqD6BdU6_RiXdcRSvzT3nu0abH98VLXI?usp=sharing)| [Soon]()
-| [DNA Replication Origin]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ii1LUuQ2M-utm7oMGjC79QKhh2d7ummN?usp=sharing)|[Soonl]()
+| [DNA Replication Origin]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ii1LUuQ2M-utm7oMGjC79QKhh2d7ummN?usp=sharing)|[Soon]()
 |[Application]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XZ58scoQagn9pypxyasSZSdAUsa9wP8O?usp=sharing)|[Soon]()
 
 
@@ -36,27 +36,27 @@ This repository covers the principled Algorithms in Bioinformatics and its imple
 
 | Notebook  | Open in Colab|  Slides 
 | :---:         |     :---:      |  :---:
-| [Introduction to Python]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sMmrCa1F6rQKveBAY0Zd8QsNeT0KgAQP?usp=sharing)| [Central of dogma]()
+| [Introduction to Python]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sMmrCa1F6rQKveBAY0Zd8QsNeT0KgAQP?usp=sharing)| [Soon]()
 | [Introduction to Bioinformatics](https://colab.research.google.com/drive/1TqD6BdU6_RiXdcRSvzT3nu0abH98VLXI?usp=sharing) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TqD6BdU6_RiXdcRSvzT3nu0abH98VLXI?usp=sharing)| [Soon]()
-| [DNA Replication Origin]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ii1LUuQ2M-utm7oMGjC79QKhh2d7ummN?usp=sharing)|[Soonl]()
+| [DNA Replication Origin]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ii1LUuQ2M-utm7oMGjC79QKhh2d7ummN?usp=sharing)|[Soon]()
 |[Application]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XZ58scoQagn9pypxyasSZSdAUsa9wP8O?usp=sharing)|[Soon]()
 
 
 ## Day 3: Genome Assembly 
 | Notebook  | Open in Colab|  Slides 
 | :---:         |     :---:      |  :---:
-| [Introduction to Python]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sMmrCa1F6rQKveBAY0Zd8QsNeT0KgAQP?usp=sharing)| [Central of dogma]()
+| [Introduction to Python]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sMmrCa1F6rQKveBAY0Zd8QsNeT0KgAQP?usp=sharing)| [Soon]()
 | [Introduction to Bioinformatics](https://colab.research.google.com/drive/1TqD6BdU6_RiXdcRSvzT3nu0abH98VLXI?usp=sharing) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TqD6BdU6_RiXdcRSvzT3nu0abH98VLXI?usp=sharing)| [Soon]()
-| [DNA Replication Origin]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ii1LUuQ2M-utm7oMGjC79QKhh2d7ummN?usp=sharing)|[Soonl]()
+| [DNA Replication Origin]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ii1LUuQ2M-utm7oMGjC79QKhh2d7ummN?usp=sharing)|[Soon]()
 |[Application]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XZ58scoQagn9pypxyasSZSdAUsa9wP8O?usp=sharing)|[Soon]()
 
 ## Day 4: Sequnce Alignment 
 
 | Notebook  | Open in Colab|  Slides 
 | :---:         |     :---:      |  :---:
-| [Introduction to Python]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sMmrCa1F6rQKveBAY0Zd8QsNeT0KgAQP?usp=sharing)| [Central of dogma]()
+| [Introduction to Python]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sMmrCa1F6rQKveBAY0Zd8QsNeT0KgAQP?usp=sharing)| [Soon]()
 | [Introduction to Bioinformatics](https://colab.research.google.com/drive/1TqD6BdU6_RiXdcRSvzT3nu0abH98VLXI?usp=sharing) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TqD6BdU6_RiXdcRSvzT3nu0abH98VLXI?usp=sharing)| [Soon]()
-| [DNA Replication Origin]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ii1LUuQ2M-utm7oMGjC79QKhh2d7ummN?usp=sharing)|[Soonl]()
+| [DNA Replication Origin]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ii1LUuQ2M-utm7oMGjC79QKhh2d7ummN?usp=sharing)|[Soon]()
 |[Application]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XZ58scoQagn9pypxyasSZSdAUsa9wP8O?usp=sharing)|[Soon]()
 
 
