@@ -36,9 +36,9 @@ This repository covers the principled Algorithms in Bioinformatics and its imple
 
 | Notebook  | Open in Colab|  Slides 
 | :---:         |     :---:      |  :---:
-| [Introduction to Python]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sMmrCa1F6rQKveBAY0Zd8QsNeT0KgAQP?usp=sharing)| [Soon]()
-| [Introduction to Bioinformatics](https://colab.research.google.com/drive/1TqD6BdU6_RiXdcRSvzT3nu0abH98VLXI?usp=sharing) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TqD6BdU6_RiXdcRSvzT3nu0abH98VLXI?usp=sharing)| [Soon]()
-| [DNA Replication Origin]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ii1LUuQ2M-utm7oMGjC79QKhh2d7ummN?usp=sharing)|[Soon]()
+| [Asymmetry of Replication]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sMmrCa1F6rQKveBAY0Zd8QsNeT0KgAQP?usp=sharing)| [Soon]()
+| [Peculiar Statistics of the Forward and Reverse Half-Strands](https://colab.research.google.com/drive/1TqD6BdU6_RiXdcRSvzT3nu0abH98VLXI?usp=sharing) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TqD6BdU6_RiXdcRSvzT3nu0abH98VLXI?usp=sharing)| [Soon]()
+| [A Final Attempt at Finding DnaA Boxes in E. coli]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ii1LUuQ2M-utm7oMGjC79QKhh2d7ummN?usp=sharing)|[Soon]()
 |[Application]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sMmrCa1F6rQKveBAY0Zd8QsNeT0KgAQP?usp=sharing)|[Soon]()
 
 
@@ -47,16 +47,16 @@ This repository covers the principled Algorithms in Bioinformatics and its imple
 | :---:         |     :---:      |  :---:
 | [Introduction to Python]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sMmrCa1F6rQKveBAY0Zd8QsNeT0KgAQP?usp=sharing)| [Soon]()
 | [Introduction to Bioinformatics](https://colab.research.google.com/drive/1TqD6BdU6_RiXdcRSvzT3nu0abH98VLXI?usp=sharing) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TqD6BdU6_RiXdcRSvzT3nu0abH98VLXI?usp=sharing)| [Soon]()
-| [DNA Replication Origin]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ii1LUuQ2M-utm7oMGjC79QKhh2d7ummN?usp=sharing)|[Soon]()
+| [DNA ]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ii1LUuQ2M-utm7oMGjC79QKhh2d7ummN?usp=sharing)|[Soon]()
 |[Application]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XZ58scoQagn9pypxyasSZSdAUsa9wP8O?usp=sharing)|[Soon]()
 
 ## Day 4: Sequnce Alignment 
 
 | Notebook  | Open in Colab|  Slides 
 | :---:         |     :---:      |  :---:
-| [Introduction to Python]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sMmrCa1F6rQKveBAY0Zd8QsNeT0KgAQP?usp=sharing)| [Soon]()
-| [Introduction to Bioinformatics](https://colab.research.google.com/drive/1TqD6BdU6_RiXdcRSvzT3nu0abH98VLXI?usp=sharing) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TqD6BdU6_RiXdcRSvzT3nu0abH98VLXI?usp=sharing)| [Soon]()
-| [DNA Replication Origin]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ii1LUuQ2M-utm7oMGjC79QKhh2d7ummN?usp=sharing)|[Soon]()
+| [Introduction to Sequence Alignment]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sMmrCa1F6rQKveBAY0Zd8QsNeT0KgAQP?usp=sharing)| [Soon]()
+| [The Manhattan Tourist Problem](https://colab.research.google.com/drive/1TqD6BdU6_RiXdcRSvzT3nu0abH98VLXI?usp=sharing) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TqD6BdU6_RiXdcRSvzT3nu0abH98VLXI?usp=sharing)| [Soon]()
+| [An Introduction to Dynamic Programming]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ii1LUuQ2M-utm7oMGjC79QKhh2d7ummN?usp=sharing)|[Soon]()
 |[Application]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TqD6BdU6_RiXdcRSvzT3nu0abH98VLXI?usp=sharing)|[Soon]()
 
 
