@@ -29,7 +29,7 @@ This repository covers the principled Algorithms in Bioinformatics and its imple
 | [Introduction to Python]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sMmrCa1F6rQKveBAY0Zd8QsNeT0KgAQP?usp=sharing)| [Soon]()
 | [Introduction to Bioinformatics](https://colab.research.google.com/drive/1TqD6BdU6_RiXdcRSvzT3nu0abH98VLXI?usp=sharing) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TqD6BdU6_RiXdcRSvzT3nu0abH98VLXI?usp=sharing)| [Soon]()
 | [DNA Replication Origin]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ii1LUuQ2M-utm7oMGjC79QKhh2d7ummN?usp=sharing)|[Soon]()
-|[Application]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XZ58scoQagn9pypxyasSZSdAUsa9wP8O?usp=sharing)|[Soon]()
+|[Application]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sMmrCa1F6rQKveBAY0Zd8QsNeT0KgAQP?usp=sharing)|[Soon]()
 
 
 ## Day 2: DNA Replication Part 2
@@ -39,7 +39,7 @@ This repository covers the principled Algorithms in Bioinformatics and its imple
 | [Introduction to Python]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sMmrCa1F6rQKveBAY0Zd8QsNeT0KgAQP?usp=sharing)| [Soon]()
 | [Introduction to Bioinformatics](https://colab.research.google.com/drive/1TqD6BdU6_RiXdcRSvzT3nu0abH98VLXI?usp=sharing) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TqD6BdU6_RiXdcRSvzT3nu0abH98VLXI?usp=sharing)| [Soon]()
 | [DNA Replication Origin]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ii1LUuQ2M-utm7oMGjC79QKhh2d7ummN?usp=sharing)|[Soon]()
-|[Application]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XZ58scoQagn9pypxyasSZSdAUsa9wP8O?usp=sharing)|[Soon]()
+|[Application]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sMmrCa1F6rQKveBAY0Zd8QsNeT0KgAQP?usp=sharing)|[Soon]()
 
 
 ## Day 3: Genome Assembly 
@@ -57,7 +57,7 @@ This repository covers the principled Algorithms in Bioinformatics and its imple
 | [Introduction to Python]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sMmrCa1F6rQKveBAY0Zd8QsNeT0KgAQP?usp=sharing)| [Soon]()
 | [Introduction to Bioinformatics](https://colab.research.google.com/drive/1TqD6BdU6_RiXdcRSvzT3nu0abH98VLXI?usp=sharing) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TqD6BdU6_RiXdcRSvzT3nu0abH98VLXI?usp=sharing)| [Soon]()
 | [DNA Replication Origin]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ii1LUuQ2M-utm7oMGjC79QKhh2d7ummN?usp=sharing)|[Soon]()
-|[Application]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XZ58scoQagn9pypxyasSZSdAUsa9wP8O?usp=sharing)|[Soon]()
+|[Application]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TqD6BdU6_RiXdcRSvzT3nu0abH98VLXI?usp=sharing)|[Soon]()
 
 
 ## Useful Tutorials: [Introduction_to_bioinformatics](https://github.com/Sakhaa-Alsaedi/Introduction_to_bioinformatics)
@@ -73,6 +73,7 @@ This repository covers the principled Algorithms in Bioinformatics and its imple
 
 
 ## :books: Recommend Books 
+-  [Python for Data Analysis](https://wesmckinney.com/book/) by Wes McKinney
 - [Principles of Population Genetics 4th Edition](https://www.scribd.com/document/327383907/Principles-Population-Genetics)
 - [Genetics and Genomics in Medicine](https://moodle2.units.it/pluginfile.php/271710/mod_resource/content/1/Genetics-Genomics-Medicine.pdf)
 - [Bioinformatics Algorithms](https://womengovtcollegevisakha.ac.in/departments/Bioinformatics%20Algo'ms-%20An%20active%20learning%20approach.pdf)
