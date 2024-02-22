@@ -49,7 +49,9 @@ This repository covers the principled Algorithms in Bioinformatics and its imple
 | [De Bruijn Graphs](https://colab.research.google.com/drive/1TqD6BdU6_RiXdcRSvzT3nu0abH98VLXI?usp=sharing) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TqD6BdU6_RiXdcRSvzT3nu0abH98VLXI?usp=sharing)| [Soon]()
 | [Euler’s Theorem]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ii1LUuQ2M-utm7oMGjC79QKhh2d7ummN?usp=sharing)|[Soon]()
 |[Assembling Read-Pair]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XZ58scoQagn9pypxyasSZSdAUsa9wP8O?usp=sharing)|[Soon]()
+|[De Bruijn Graphs Face Harsh Realities of Assembly]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XZ58scoQagn9pypxyasSZSdAUsa9wP8O?usp=sharing)|[Soon]()
 
+ 
 ## Day 4: Sequnce Alignment 
 
 | Notebook  | Open in Colab|  Slides 
