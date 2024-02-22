@@ -79,10 +79,11 @@ This repository covers the principled Algorithms in Bioinformatics and its imple
 
 ## Useful videos and resources 
 - [The central dogma](https://www.youtube.com/watch?v=gG7uCskUOrA&t=1s)
-- [GalaxyProject](https://www.youtube.com/@GalaxyProject/videos)
+- [Python for Data Analysis](https://github.com/davidrpugh/python-for-data-analysis)
 - [Next Generation Sequencing (NGS)](https://www.youtube.com/watch?v=jFCD8Q6qSTM&list=PLTt9kKfqE_0Gem8hIcJEn7YcesuuKdt_n)
 - [Algorithms for DNA Sequencing](https://www.youtube.com/watch?v=hpb-mH-yjLc&list=PL2mpR0RYFQsBiCWVJSvVAO3OJ2t7DzoHA)
-- [Rosalind website](https://rosalind.info/problems/list-view/?location=bioinformatics-textbook-track) 
+- [Rosalind website](https://rosalind.info/problems/list-view/?location=bioinformatics-textbook-track)
+
 
 ## Need help?
 You can find us in Discord or by Email:
