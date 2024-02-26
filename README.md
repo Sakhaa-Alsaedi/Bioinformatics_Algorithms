@@ -24,26 +24,26 @@ This repository covers the principled Algorithms in Bioinformatics and its imple
 
 ## Day 1: Exploring Heddin Massages in DNA 
 
-| Notebook  | Open in Colab|  Slides 
+| Notebook  | Open in Colab|  Materiels 
 | :---:         |     :---:      |  :---:
 | [Introduction to Python]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1C-3xn6-OGcWAJSdBx-6fKxe7EaNHJN5U?usp=sharing)| [Beginner-level](https://colab.research.google.com/drive/1C-3xn6-OGcWAJSdBx-6fKxe7EaNHJN5U?usp=sharing) , [Beginner-level-BI](https://colab.research.google.com/drive/1Jm-TFcdxIKp81Zbcdld_GhjkwUBiS5Cl?usp=sharing), [ Intermediate-level BI](https://colab.research.google.com/drive/1HayGS64UxQA5xK1el7WYhmp8xW1F0xCK?usp=sharing) , [Advanced-level BI](https://colab.research.google.com/drive/19G_FPGCEzliIzsillrLFjlr0wKuH80eH?usp=sharing)
 | [Introduction to Bioinformatics](https://colab.research.google.com/drive/1TqD6BdU6_RiXdcRSvzT3nu0abH98VLXI?usp=sharing) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TqD6BdU6_RiXdcRSvzT3nu0abH98VLXI?usp=sharing)| [Part 1](https://colab.research.google.com/drive/1sMmrCa1F6rQKveBAY0Zd8QsNeT0KgAQP?usp=sharing)
-| [DNA Replication Origin]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ii1LUuQ2M-utm7oMGjC79QKhh2d7ummN?usp=sharing)|[Day 1](https://github.com/Sakhaa-Alsaedi/Bioinformatics_Algorithms/blob/main/%20Day1_Advanced_Bioinformatics_Sakhaa.pdf)
+| [DNA Replication Origin]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ii1LUuQ2M-utm7oMGjC79QKhh2d7ummN?usp=sharing)|[Day 1 Slides](https://github.com/Sakhaa-Alsaedi/Bioinformatics_Algorithms/blob/main/%20Day1_Advanced_Bioinformatics_Sakhaa.pdf)
 |[Application]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sMmrCa1F6rQKveBAY0Zd8QsNeT0KgAQP?usp=sharing)|[Oric_Vibrio cholera](https://colab.research.google.com/drive/1a2zGPUujfdLDb1riA-jK3x0Vq2FQeTQ9?usp=sharing)
 
 
 ## Day 2: DNA Replication 
 
-| Notebook  | Open in Colab|  Slides 
+| Notebook  | Open in Colab|  Materiels 
 | :---:         |     :---:      |  :---:
-| [Asymmetry of Replication]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-BrsDsHYKFsOZFqsC6GOiCUv3FjIGOSt?usp=sharing)| [Soon]()
-| [Peculiar Statistics of the Forward and Reverse Half-Strands]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()| [Soon]()
-| [A Final Attempt at Finding DnaA Boxes in E. coli]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()|[Soon]()
-|[Application]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sMmrCa1F6rQKveBAY0Zd8QsNeT0KgAQP?usp=sharing)|[Soon]()
+| Introduction to Bio Data analysis (Python) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-BrsDsHYKFsOZFqsC6GOiCUv3FjIGOSt?usp=sharing)| [Soon]()
+| Computational Application in Genome Replication | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()| [Vibrio_cholerae](), [E.coli](), [Salmonella_enterica]()
+| Genome Replication Problem ( Part 2)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()|[Soon]()
+|[A Final Attempt at Finding DnaA Boxes in E. coli]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sMmrCa1F6rQKveBAY0Zd8QsNeT0KgAQP?usp=sharing)|[Soon]()
 
 
 ## Day 3: Genome Assembly 
-| Notebook  | Open in Colab|  Slides 
+| Notebook  | Open in Colab|  Materiels 
 | :---:         |     :---:      |  :---:
 | [Computational problem of genome assembly]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sMmrCa1F6rQKveBAY0Zd8QsNeT0KgAQP?usp=sharing)| [Soon]()
 | [De Bruijn Graphs](https://colab.research.google.com/drive/1TqD6BdU6_RiXdcRSvzT3nu0abH98VLXI?usp=sharing) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()| [Soon]()
@@ -54,7 +54,7 @@ This repository covers the principled Algorithms in Bioinformatics and its imple
  
 ## Day 4: Sequnce Alignment 
 
-| Notebook  | Open in Colab|  Slides 
+| Notebook  | Open in Colab|  Materiels 
 | :---:         |     :---:      |  :---:
 | [Introduction to Sequence Alignment]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sMmrCa1F6rQKveBAY0Zd8QsNeT0KgAQP?usp=sharing)| [Soon]()
 | [The Manhattan Tourist Problem](https://colab.research.google.com/drive/1TqD6BdU6_RiXdcRSvzT3nu0abH98VLXI?usp=sharing) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()| [Soon]()
