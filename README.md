@@ -36,11 +36,10 @@ This repository covers the principled Algorithms in Bioinformatics and its imple
 
 | Notebook  | Open in Colab|  Materiels 
 | :---:         |     :---:      |  :---:
-| Introduction to Bio Data analysis (Python) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-BrsDsHYKFsOZFqsC6GOiCUv3FjIGOSt?usp=sharing)| [Soon]()
+| Introduction to Bio Data analysis (Python) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1I3T8Z_SoOGJdZ2VPZt_j3Xjqo7u1yRpi?usp=sharing)| [Reading Genome File](https://colab.research.google.com/drive/1I3T8Z_SoOGJdZ2VPZt_j3Xjqo7u1yRpi?usp=sharing)
 | Computational Application in Genome Replication | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()| [Vibrio_cholerae](), [E.coli](), [Salmonella_enterica]()
 | Genome Replication Problem ( Part 2)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()|[Soon]()
 |[A Final Attempt at Finding DnaA Boxes in E. coli]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sMmrCa1F6rQKveBAY0Zd8QsNeT0KgAQP?usp=sharing)|[Soon]()
-
 
 ## Day 3: Genome Assembly 
 | Notebook  | Open in Colab|  Materiels 
