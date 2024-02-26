@@ -38,7 +38,7 @@ This repository covers the principled Algorithms in Bioinformatics and its imple
 | :---:         |     :---:      |  :---:
 | Introduction to Bio Data analysis (Python) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1I3T8Z_SoOGJdZ2VPZt_j3Xjqo7u1yRpi?usp=sharing)| [Reading Genome File](https://colab.research.google.com/drive/1I3T8Z_SoOGJdZ2VPZt_j3Xjqo7u1yRpi?usp=sharing)
 | Computational Application in Genome Replication | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()| [Vibrio_cholerae](), [E.coli](), [Salmonella_enterica]()
-| Genome Replication Problem ( Part 2)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MrfBkxjkMmN9LwH5c9BUQjAPXFYiQAr9?usp=sharing)|[Day 2 slides](https://github.com/Sakhaa-Alsaedi/Bioinformatics_Algorithms/blob/main/%20Day2_Advanced_Bioinformatics_Sakhaa.pdf)
+| Genome Replication Problem ( Part 2)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MrfBkxjkMmN9LwH5c9BUQjAPXFYiQAr9?usp=sharing)|[Day 2 Slides](https://github.com/Sakhaa-Alsaedi/Bioinformatics_Algorithms/blob/main/%20Day2_Advanced_Bioinformatics_Sakhaa.pdf)
 
 ## Day 3: Genome Assembly 
 | Notebook  | Open in Colab|  Materiels 
